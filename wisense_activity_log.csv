@@ -1,0 +1,4 @@
+timestamp,score,baseline,threshold,rssi,status,events
+2026-09-08 12:27:21,0.0,0.0,2.0,-76.0,STARTING,0
+2026-09-08 12:27:22,0.0,0.0,2.0,-77.0,STARTING,0
+2026-09-08 12:27:22,0.0,0.0,2.0,-80.0,STARTING,0
